@@ -14,6 +14,6 @@ Some use cases that we hope to unlock for our users
 Thanks to these tools and sponsors:
 1. Elastic - for sponsoring the Elasticsearch Cluster in the Cloud
 2. AWS - for sponsoring Amazon Bedrock that is being used for our AI Chatbots
-3. Tines - for an amazingly easy to use automation tool to ingest all the necessary data from (OpenData)[https://data.gov.sg]
+3. Tines - for an amazingly easy to use automation tool to ingest all the necessary data from [OpenData](https://data.gov.sg)
 4. GovTech & Singapore Agencies - for diligently publishing data to their portal ordinary users' consumption and analysis
 
