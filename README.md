@@ -17,3 +17,21 @@ Thanks to these tools and sponsors:
 3. Tines - for an amazingly easy to use automation tool to ingest all the necessary data from [OpenData](https://data.gov.sg)
 4. GovTech & Singapore Agencies - for diligently publishing data to their portal ordinary users' consumption and analysis
 
+## Setup Instructions
+
+1. Install required Python packages:
+```
+pip install -r requirements.txt
+```
+
+2. Create a `.env` file in the app directory with the following variables:
+```
+ES_API_KEY=your_es_api_key
+AWS_ACCESS_KEY=your_aws_access_key
+AWS_SECRET_KEY=your_aws_secret_key
+```
+
+3. Run the application:
+```
+python hackathon_final.py
+```

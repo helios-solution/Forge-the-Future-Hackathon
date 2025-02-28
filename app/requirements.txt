@@ -1,0 +1,6 @@
+boto3==1.37.3
+elasticsearch==8.17.1
+langchain-aws==0.2.14
+langtrace-python-sdk==3.8.0
+streamlit==1.42.2
+python-dotenv>=1.0.0
